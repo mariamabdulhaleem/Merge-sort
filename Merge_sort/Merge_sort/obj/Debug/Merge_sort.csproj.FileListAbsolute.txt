@@ -1,0 +1,8 @@
+D:\3rd_year\first_term\Algorithm\Merge_sort\Merge_sort\bin\Debug\Merge_sort.exe.config
+D:\3rd_year\first_term\Algorithm\Merge_sort\Merge_sort\bin\Debug\Merge_sort.exe
+D:\3rd_year\first_term\Algorithm\Merge_sort\Merge_sort\bin\Debug\Merge_sort.pdb
+D:\3rd_year\first_term\Algorithm\Merge_sort\Merge_sort\obj\Debug\Merge_sort.csproj.AssemblyReference.cache
+D:\3rd_year\first_term\Algorithm\Merge_sort\Merge_sort\obj\Debug\Merge_sort.csproj.SuggestedBindingRedirects.cache
+D:\3rd_year\first_term\Algorithm\Merge_sort\Merge_sort\obj\Debug\Merge_sort.csproj.CoreCompileInputs.cache
+D:\3rd_year\first_term\Algorithm\Merge_sort\Merge_sort\obj\Debug\Merge_sort.exe
+D:\3rd_year\first_term\Algorithm\Merge_sort\Merge_sort\obj\Debug\Merge_sort.pdb
